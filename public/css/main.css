@@ -1,0 +1,17 @@
+:root {
+  --main-margin-large: 80px;
+}
+
+.main-section {
+  background-color: #282828;
+  min-height: 100vh;
+  color: #666;
+  text-align: center;
+  font-size: 12px;
+  padding: var(--main-margin-large) 0px;
+}
+
+.main-section h2 {
+  font-weight: normal;
+  color:#ffffff;
+}
